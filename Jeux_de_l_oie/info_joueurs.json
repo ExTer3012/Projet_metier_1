@@ -1,0 +1,29 @@
+{
+    "0": [
+        "moi",
+        "#ff0000",
+        35,
+        19,
+        false,
+        false,
+        false
+    ],
+    "1": [
+        "toi",
+        "#0000ff",
+        55,
+        52,
+        false,
+        false,
+        false
+    ],
+    "2": [
+        "lui",
+        "#00ff00",
+        63,
+        52,
+        false,
+        false,
+        false
+    ]
+}

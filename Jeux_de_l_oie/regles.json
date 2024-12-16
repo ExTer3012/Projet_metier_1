@@ -1,0 +1,261 @@
+{   "0": {
+        "type_regles": 0,
+        "message": ""
+    },
+    "1": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "2": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "3": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "4": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "5": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "6": {
+        "type_regles": 1,
+        "case_de_destination": 12,
+        "message": "Vous trouvez un pont et arriver en case 12."
+    },
+    "7": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment."
+    },
+    "8": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment."
+    },
+    "9": {
+        "type_regles": 2,
+        "message": "Vous trouvez une oie, \ncelle-ci vous accompagne un peu plus loin.\n"
+    },
+    "10": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "11": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "12": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "13": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "14": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "15": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "16": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "17": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "18": {
+        "type_regles": 2,
+        "message": "Vous trouvez une oie, \ncelle-ci vous accompagne un peu plus loin.\n"
+    },
+    "19": {
+        "type_regles": 3,
+        "passer_tour": true,
+        "message": "Vous trouvez un joli nid, \nvous en profitez pour vous reposer."
+    },
+    "20": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "21": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "22": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "23": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "24": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "25": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "26": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "27": {
+        "type_regles": 2,
+        "message": "Vous trouvez une oie, \ncelle-ci vous accompagne un peu plus loin.\n"
+    },
+    "28": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "29": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "30": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "31": {
+        "type_regles": 4,
+        "block": true,
+        "message": "Vous tombez dans le puit.",
+        "message_suite": "\nvotre sacrifice à libéré l'un de vos compère."
+    },
+    "32": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "33": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "34": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "35": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "36": {
+        "type_regles": 2,
+        "message": "Vous trouvez une oie, \ncelle-ci vous accompagne un peu plus loin.\n"
+    },
+    "37": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "38": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "39": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "40": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "41": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "42": {
+        "type_regles": 1,
+        "case_de_destination": 30,
+        "message": "Vous entrez dans le labirynte, \nvous en sortez vivant mais à la case 30."
+    },
+    "43": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "44": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "45": {
+        "type_regles": 2,
+        "message": "Vous trouvez une oie, \ncelle-ci vous accompagne un peu plus loin.\n"
+    },
+    "46": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "47": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "48": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "49": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "50": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "51": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "52": {
+        "type_regles": 4,
+        "block": true,
+        "message": "Vous vous retrouvé en prison.",
+        "message_suite": "\nVous défiez la loi et libéré votre compère."
+    },
+    "53": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "54": {
+        "type_regles": 2,
+        "message": "Vous trouvez une oie, \ncelle-ci vous accompagne un peu plus loin.\n"
+    },
+    "55": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "56": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "57": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "58": {
+        "type_regles": 1,
+        "case_de_destination": 0,
+        "message": "Vous tomber nez à nez avec un chasseur, \npar peur vous prennez la fuite \net retourner à la case départ."
+    },
+    "59": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "60": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "61": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    },
+    "62": {
+        "type_regles": 0,
+        "message": "Tout va bien pour le moment"
+    }
+}

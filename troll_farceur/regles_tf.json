@@ -1,0 +1,263 @@
+{   "0": {
+    "type_regles": 0,
+    "message": ""
+},
+"1": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"2": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"3": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"4": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"5": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"6": {
+    "type_regles": 1,
+    "case_de_destination": 35,
+    "message": "Vous trouvez un portail et arrivez en case 35."
+},
+"7": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment."
+},
+"8": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment."
+},
+"9": {
+    "type_regles": 2,
+    "message": "Vous trouvez une potion d'endurance. \nVous la buvez et parcourez à nouveau la même distance.\n"
+},
+"10": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"11": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"12": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"13": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"14": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"15": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"16": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"17": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"18": {
+    "type_regles": 2,
+    "message": "Vous trouvez une potion d'endurance. \nVous la buvez et parcourez à nouveau la même distance.\n"
+},
+"19": {
+    "type_regles": 3,
+    "passer_tour": true,
+    "message": "Vous trouvez un coffre, vous en profitez pour \nvous remplir les poches mais ça vous prend du temps."
+},
+"20": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"21": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"22": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"23": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"24": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"25": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"26": {
+    "type_regles": 1,
+    "case_de_destination": 28,
+    "message": "Vous marchez dans une crotte de troll \n,vous courrez deux cases plus loin."
+},
+"27": {
+    "type_regles": 2,
+    "message": "Vous trouvez une potion d'endurance. \nVous la buvez et parcourez à nouveau la même distance.\n"
+},
+"28": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"29": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"30": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"31": {
+    "type_regles": 4,
+    "block": true,
+    "message": "Vous tombez dans les oubliettes.",
+    "message_suite": "\nvotre sacrifice à libéré l'un de vos compères."
+},
+"32": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"33": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"34": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"35": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"36": {
+    "type_regles": 2,
+    "message": "Vous trouvez une potion d'endurance. \nVous la buvez et parcourez à nouveau la même distance.\n"
+},
+"37": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"38": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"39": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"40": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"41": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"42": {
+    "type_regles": 1,
+    "case_de_destination": 30,
+    "message": "Vous activez maladroitement un piège, \nvous en sortez vivant mais à la case 30."
+},
+"43": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"44": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"45": {
+    "type_regles": 2,
+    "message": "Vous trouvez une potion d'endurance. \nVous la buvez et parcourez à nouveau la même distance.\n"
+},
+"46": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"47": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"48": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"49": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"50": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"51": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"52": {
+    "type_regles": 4,
+    "block": true,
+    "message": "Vous trouvez un coffre mais ce dernier vous attrape.",
+    "message_suite": "\nVous libérez votre compère."
+},
+"53": {
+    "type_regles": 1,
+    "case_de_destination": 51,
+    "message": "Vous marchez dans une crotte de troll \n,vous repartez deux cases en arrière."
+},
+"54": {
+    "type_regles": 2,
+    "message": "Vous trouvez une potion d'endurance. \nVous la buvez et parcourez à nouveau la même distance.\n"
+},
+"55": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"56": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"57": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"58": {
+    "type_regles": 1,
+    "case_de_destination": 0,
+    "message": "\nVous tomber nez à nez avec le troll, \npar peur vous prennez la fuite \net retournez à la case départ."
+},
+"59": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"60": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"61": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+},
+"62": {
+    "type_regles": 0,
+    "message": "Tout va bien pour le moment"
+}
+}

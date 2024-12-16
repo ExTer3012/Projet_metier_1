@@ -1,0 +1,35 @@
+{
+    "scenario_predefini_1J": [
+        {"des1": 29, "des2": 29},
+        {"des1": 3, "des2": 3},
+        {"des1": 20, "des2": 6},
+        {"des1": 9, "des2": 9},
+        {"des1": 3, "des2":0}
+    ],
+    "scenario_predefini_2J": [
+        {"des1": 3, "des2": 6},
+        {"des1": 3, "des2": 3},
+        {"des1": 4, "des2": 4},
+        {"des1": 10, "des2": 13},
+        {"des1": 22, "des2": 22},
+        {"des1": 5, "des2": 2},
+        {"des1": 1, "des2": 0},
+        {"des1": 1, "des2": 0},
+        {"des1": 21, "des2": 18 },
+        {"des1":2, "des2": 5},
+        {"des1":10, "des2": 7}
+    ],
+
+    "scenario_predefini_3J": [
+        {"des1": 18, "des2": 1},
+        {"des1": 1, "des2": 5},
+        {"des1": 5, "des2": 4},
+        {"des1": 2, "des2": 5},
+        {"des1": 2, "des2": 5},
+        {"des1": 16, "des2": 15},
+        {"des1": 3, "des2": 3},
+        {"des1": 4, "des2": 0},
+        {"des1": 2, "des2": 5},
+        {"des1": 22, "des2": 22}
+    ]
+}
