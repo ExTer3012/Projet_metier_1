@@ -34,7 +34,7 @@ class plateau(tk.Toplevel):
             if self.joueur_actuel == 0 and self.info_joueurs[self.joueur_actuel][5] == False:
                 self.lancer_de_des_troll()
             else:
-                self.peut_lancer = False
+                self.peut_lancer = True
         except FileNotFoundError:
             self.joueur_actuel = 1
             self.actuel = {"dernier_joueur": 1}
